@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:10.290248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 佛說十一面觀世音神呪經
 #+PROPERTY: CBETA_ID T20n1070
 #+PROPERTY: ID KR6j0276
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1070
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0276_T_000-0149a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0276_T_001-0149a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1070[No.1071,cf.No.901(Fasc.4)]¶
-
- 佛說十一面觀世音神呪經¶
+No. 1070 [No. 1071, cf. No. 901(Fasc. 4)]¶
+佛說十一面觀世音神呪經¶
 ¶
 周宇文氏天竺三藏耶舍崛多譯¶
 
@@ -190,8 +189,7 @@ No.1070[No.1071,cf.No.901(Fasc.4)]¶
 打之。或被顛鬼打之或患丁腫或患漏。或體¶
 生瘡疱或被蛇螫或蠍螫。一切毒蟲所螫之¶
 者。以黃土作泥呪之七遍。塗其螫處悉得除¶
-愈。若患風病呪酥七遍。塗其患處并服之即¶
-得除愈。或患偏風耳鼻不通。以青木香用胡¶
+愈。若患風病呪酥七遍。塗其患處并服之即得除愈。或患偏風耳鼻不通。以青木香用胡¶
 麻油。樺皮上煮之并呪七遍。塗其患處即得¶
 除愈。所有疾病用此呪治悉得除愈。此呪神¶
 力說不可盡。我依經教略而言之。¶
