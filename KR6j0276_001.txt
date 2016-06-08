@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:10.290248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 佛說十一面觀世音神呪經
 #+PROPERTY: CBETA_ID T20n1070
 #+PROPERTY: ID KR6j0276
